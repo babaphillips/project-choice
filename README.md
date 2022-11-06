@@ -1,6 +1,6 @@
 # Project Choice
 
-Project Choice is a single page React Application that provides current information on Abortion Access by state.  There is a contact form to get more information and an online shop with branded products available for purchase.  All proceeds go the Planned Parenthood.
+Project Choice is a single page React Application that provides current information on Abortion Access by state. There is a contact form to get more information and an online shop with branded products available for purchase. All proceeds go the Planned Parenthood.
 
 ![License](https://img.shields.io/badge/License-MIT-lightblue.svg)
 
@@ -80,6 +80,10 @@ Contributions are what make the open source community such an amazing place to l
 No tests.
 
 ## Questions?
+
+## Original Repository:
+
+(https://github.com/JenniferByrnes/project-choice)
 
 Check out the creators's Github links here:
 

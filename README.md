@@ -83,7 +83,7 @@ No tests.
 
 ## Original Repository:
 
-(https://github.com/JenniferByrnes/project-choice)
+https://github.com/JenniferByrnes/project-choice
 
 Check out the creators's Github links here:
 

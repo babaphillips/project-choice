@@ -1,6 +1,9 @@
 .DS_STORE
 package-lock.json
 
+# Build files are overwriting each other.
+# build/
+
 # Logs
 logs
 *.log
@@ -105,3 +108,4 @@ dist
 
 # TernJS port file
 .tern-port
+.vercel

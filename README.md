@@ -82,6 +82,10 @@ No tests.
 
 ## Questions?
 
+## Original Repository:
+
+https://github.com/JenniferByrnes/project-choice
+
 Check out the creators's Github links here:
 
 [Github Amanda Phillips](https://github.com/babaphillips)\
